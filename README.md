@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio Nagano</h1>
 <h3 align="center">A data analysis and science enthusiast!</h3>
 
-- 🔭 I’m currently working on [Data Analysis and Vizualisation](https://colab.research.google.com/drive/1DJC-Pb1JrMvPUwCBPQ_dQdw6q1JjUKad?usp=sharing)
+- 🔭 I’m currently working on [Data Analysis and Vizualisation](https://colab.research.google.com/drive/1KjT2CmaThGrZxgW5B93jpZGKJb_qOg9X?usp=sharing)
 
 - 🌱 I’m currently studying **digging deeper on Power BI and Python focused on Data analysis and Visualization.**
 
