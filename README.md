@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Analysis and Vizualisation](https://colab.research.google.com/drive/1KjT2CmaThGrZxgW5B93jpZGKJb_qOg9X?usp=sharing)
 
-- 🌱 I’m currently studying **digging deeper on Power BI and Python focused on Data analysis and Visualization.**
+- 🌱 I’m currently studying **Agile methodology**
 
 - 💬 Ask me about **Python, Power BI, SQL and Excel**
 
